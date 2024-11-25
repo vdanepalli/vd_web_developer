@@ -30,11 +30,106 @@
 5. [Bootstrap Grid](https://getbootstrap.com/docs/5.3/layout/grid/)
 6. [Embedded Signup form using Mailchimp: Mailing Service](https://mailchimp.com/en/help/add-a-signup-form-to-your-website/)
 7. [Creating a landing page](https://mailchimp.com/help/create-a-landing-page/)
-8. 
+8. [Animate.Style](https://animate.style/)
 
+
+### CSS Grid, CSS Layout
+
+1. [CSS Grid CheatSheet](http://grid.malven.co/)
+2. [CSS Grid Garden](http://cssgridgarden.com/) -- this too is fun.
+3. [Media Queries Cheatsheet](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+4. [Web.Dev](https://web.dev/learn/css/)
+
+
+### Web Developer as a Career
+
+1. [State of JavaScript Survey](https://stateofjs.com/en-US)
+2. [Salary Heatmap](https://www.levels.fyi/heatmap/)
+3. [State of Salaries](https://www.dice.com/technologists/ebooks/tech-salary-report/salary-trends.html)
+4. [Developer Salaries - Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
+5. [Stackoverflow Survey](https://insights.stackoverflow.com/survey/)
+6. [HackerNews Hiring Trends](https://www.hntrends.com/)
+
+### DOM Manipulation
+
+- [You Might Not Need JQuery](https://youmightnotneedjquery.com/)
+
+
+### JavaScript
+
+1. [Type Coersion Table](https://dorey.github.io/JavaScript-Equality-Table/)
+2. [MDN - Equality comparison](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+3. [ECMA Comparison Algorithm](https://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3)
+4. [JS Object Explorer](https://objectexplorer.netlify.app/)
+5. [Babel repl](https://babeljs.io/repl/)
+6. [JS Max Safe Int](https://stackoverflow.com/questions/307179/what-is-javascripts-highest-integer-value-that-a-number-can-go-to-without-losin)
+7. [Background Generator](https://github.com/aneagoie/background-generator)
+8. [History of JS Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
+9. [Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+10. [You don't know js](https://github.com/getify/You-Dont-Know-JS)
+11. [JS Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+12. [Think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+13. 
+
+### Command Line, Developer Environment
+
+- [Terminal](https://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
+- [iTerm](http://sourabhbajaj.com/mac-setup/iTerm/README.html)
+- [Windows](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
+- [Bash Prompts](https://www.maketecheasier.com/8-useful-and-interesting-bash-prompts/)
+
+### NPM 
+
+1. [NPM Semantic Versioning](https://semver.npmjs.com/)
+2. Portfolios
+   1. [Simplefolio](https://github.com/zero-to-mastery/simplefolio)
+   2. [Wowfolio](https://github.com/rammcodes/wowfolio)
+   3. [Softdevfolio](https://github.com/SixFiveProjects/softdevfolio)
+   4. [SCSS](https://stackoverflow.com/questions/46400443/what-is-the-difference-between-css-and-scss)
+
+
+### ReactJS Fundamentals
+
+1. [What is NPX](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+2. [Service Workers Info](https://developers.google.com/web/fundamentals/primers/service-workers/)
+3. [Robotfriends project](https://github.com/aneagoie/robofriends)
+4. [React Fragments for Semantic Html](https://blog.logrocket.com/rendering-sibling-elements-react-fragments/)
+5. [React.StrictMode](https://react.dev/reference/react/StrictMode)
+6. [React LifeCycle Hooks](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+
+### Asynchronous JS 
+
+1. [CORS Issue](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9#:~:text=Why%20was%20the%20CORS%20error,%3A%20cross%2Dsite%20request%20forgery.)
+2. [JSON Placeholder]('https://jsonplaceholder.typicode.com/users')
+3. 
 
 ### Other 
 
 1. [Codepen](https://codepen.io/)
 2. [Free Resources](https://zerotomastery.io/resources/)
-3. 
+3. [Creative-Tim](https://www.creative-tim.com/)
+4. [HTML 5 Templates](https://html5up.net/)
+5. [Mashup Templates](https://themewagon.com/author/mashuptemplate/)
+6. [Free CSS Templates](https://www.free-css.com/free-css-templates)
+7. [Template Mo](https://templatemo.com/page/1)
+8. [MD Bootstrap templates](https://mdbootstrap.com/freebies/)
+9. [The me wagon templates](https://themewagon.com/author/mashuptemplate/)
+10. [Start Bootstrap](https://startbootstrap.com/templates/)
+11. [Octoverse.github.com](https://octoverse.github.com/)
+12. [Coggleit Mindmaps](https://coggle.it)
+13. [Shopify Logo Maker](https://www.shopify.com/tools/logo-maker)
+14. [Robohash](https://robohash.org/)
+15. 
+
+
+### 
+
+1. [Student Submissions](https://github.com/zero-to-mastery/Coding_Challenge-8)
+2. [Raluca Nicola](https://raluca-nicola.net/)
+
+
+## FYI
+
+1. [Github master to main](https://github.com/github/renaming)
+2. 
